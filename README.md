@@ -1,6 +1,8 @@
 ---
 
-### 🗂️ BackupConfig.ps1 — Automated Backup Script
+BackupConfig.ps1 — Automated Backup Script
+
+---
 
 ### 📌 Overview
 `BackupConfig.ps1` is a PowerShell script designed to automate backups of selected directories using 7-Zip. It supports configuration via text files or command-line parameters, and includes archive rotation, and cleanup of old logs.
