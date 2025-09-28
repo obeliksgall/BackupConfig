@@ -98,3 +98,8 @@ Only the 7 most recent archived logs are retained.
 - Check `Logs` folder for detailed output
 
 ---
+## 📄 License
+
+This script is provided as-is, without warranty. Feel free to modify and adapt it to your needs.
+
+---
